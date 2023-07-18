@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Funniest person you ever witnessed 😁**
 
-https://i.gifer.com/J4x.gif
+<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/J4x" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
