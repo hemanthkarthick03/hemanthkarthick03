@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="460" height="300" src="https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/0cb859ad-a7eb-48ca-a0c4-2f4d103355ef">
-</p>
+<p align="center"><img src="https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/0cb859ad-a7eb-48ca-a0c4-2f4d103355ef"></p>
 
 <h1 align="center">Hi 👋, I'm Hemanth Karthick</h1>
 <h3 align="center">A Passionate Data Analyst and Blockchain Developer 😊</h3>
@@ -17,7 +15,7 @@
 
 - ⚡ Fun fact **Funniest person you ever witnessed 😁**
 
-![J4x](https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/2cbaccbc-241d-44be-853f-7320037e2291)
+<p align="center"><img src="https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/75eab88c-b5cf-4b09-b0a1-889d5963db1c"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
