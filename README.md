@@ -34,7 +34,8 @@
 </p>
 
 
-![5eKX](https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/54016c9f-50b8-4954-bf48-e65a7933c6c0)
+<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=phoenix-mp3&show_icons=true&locale=en&layout=compact" alt="phoenix-mp3](https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/54016c9f-50b8-4954-bf48-e65a7933c6c0)" /></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
