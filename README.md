@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact **Funniest person you ever witnessed 😁**
 
+![image](https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/b233777d-3f01-4b40-8afa-abbe20c743a3)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hemanth-karthick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemanth-karthick/" height="30" width="40" /></a>
