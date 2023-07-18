@@ -1,5 +1,5 @@
 
-![image_processing20210905-27353-jdzen4](https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/0cb859ad-a7eb-48ca-a0c4-2f4d103355ef)
+<p align="center">![image_processing20210905-27353-jdzen4](https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/0cb859ad-a7eb-48ca-a0c4-2f4d103355ef)</p>
 
 <h1 align="center">Hi 👋, I'm Hemanth Karthick</h1>
 <h3 align="center">A Passionate Data Analyst and Blockchain Developer 😊</h3>
