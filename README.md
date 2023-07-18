@@ -15,7 +15,9 @@
 
 - ⚡ Fun fact **Funniest person you ever witnessed 😁**
 
-<p align="center"><img src="https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/75eab88c-b5cf-4b09-b0a1-889d5963db1c"></p>
+
+![image_processing20220125-24476-8i3ibi](https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/9298f92a-05de-45da-875f-64bfd4efebd3)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
