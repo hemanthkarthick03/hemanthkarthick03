@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **Bone Fracture Detection using CNN**
 
-- 🌱 I’m currently learning **PyTorch and DeepLearning Algorithms**
+- 🌱 I’m currently learning **PyTorch and Deep Learning Algorithms**
 
 - 👨‍💻 All of my projects are available at [github.com/phoenix-mp3](github.com/phoenix-mp3)
 
-- 💬 Ask me about **Python, DS Tools, ML**
+- 💬 Ask me about **Data Analysis, Blochchain, Frameworks, Machine Learning and Data Exploration**
 
-- 📫 How to reach me **hemanthkarthick03@gmail.com**
+- 📫 How to reach me ✌️ **hemanthkarthick03@gmail.com**
 
 - ⚡ Fun fact **Funniest person you ever witnessed 😁**
 
-![image](https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/b233777d-3f01-4b40-8afa-abbe20c743a3)
+<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/J4x" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 
 <h3 align="left">Connect with me:</h3>
