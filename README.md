@@ -1,5 +1,5 @@
 <h1 align="center">Hey 😁✌️ I'm Hemanth Karthick</h1>
-<h3 align="center">A Passionate Data Analyst and Blockchain Developer 😊</h3>
+<h3 align="center">A Passionate Data Scientist and Blockchain Developer 😊</h3>
 
 <p align="center"><img src="https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/0cb859ad-a7eb-48ca-a0c4-2f4d103355ef"></p>
 
