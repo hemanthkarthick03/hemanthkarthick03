@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/phoenix-mp3](github.com/phoenix-mp3)
 
-- 💬 Ask me about **Python, DS Tools, ML**
+- 💬 Ask me about **Python, DS Tools, Blockchain, C++ & ML**
 
 - 📫 How to reach me **hemanthkarthick03@gmail.com**
 
