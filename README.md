@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Scientist and Blockchain Developer 😊</h3>
 
 <p align="center"><img src="https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/0cb859ad-a7eb-48ca-a0c4-2f4d103355ef"></p>
-
+<p align="center"><img src="https://cdn.dribbble.com/users/8619169/screenshots/16424581/media/8a91ad52c7c6cf7562224989d07da8e4.gif"></p>
 
 
 - 🔭 I’m currently working on **Bone Fracture Detection using CNN**
