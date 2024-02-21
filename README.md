@@ -1,8 +1,8 @@
 <h1 align="center">Hey 😁✌️ I'm Hemanth Karthick</h1>
 <h3 align="center">A Passionate Data Scientist and Blockchain Developer 😊</h3>
-</br></br>
+</br>
 <p align="center"><img src="https://cdn.dribbble.com/users/8619169/screenshots/16424581/media/8a91ad52c7c6cf7562224989d07da8e4.gif"></p>
-</br></br>
+</br>
 
 - 🔭 I’m currently working on **Bone Fracture Detection using CNN**
 
