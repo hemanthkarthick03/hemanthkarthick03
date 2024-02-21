@@ -1,5 +1,5 @@
 <h1 align="center">Hey 😁✌️ I'm Hemanth Karthick</h1>
-<h3 align="center">A Passionate Data Scientist and Blockchain Developer 😊</h3>
+<h2 align="center">A Passionate Data Scientist and Blockchain Developer 😊</h2>
 </br>
 <p align="center"><img src="https://cdn.dribbble.com/users/8619169/screenshots/16424581/media/8a91ad52c7c6cf7562224989d07da8e4.gif"></p>
 
