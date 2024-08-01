@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-
-<h1 align="center">Hey 😁✌️ I'm Hemanth Karthick </h1>
+<h1 align="center" style="-webkit-animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both; animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;">
+Hey 😁✌️ I'm Hemanth Karthick </h1>
 <h2 align="center">A Passionate Software Developer 😊</h2>
 </br>
 <p align="center"><img src="https://cdn.dribbble.com/users/8619169/screenshots/16424581/media/8a91ad52c7c6cf7562224989d07da8e4.gif"></p>
