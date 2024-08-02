@@ -16,10 +16,6 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 
 - ⚡ Fun fact **Funniest person you ever witnessed 😁**
 
-
-  <img src="https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/9298f92a-05de-45da-875f-64bfd4efebd3" alt="coding animation">
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemanth-karthick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -84,9 +80,13 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 These projects demonstrate my ability to design, develop, and implement AI models and data solutions using Python, addressing complex problems and driving innovation.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phoenix-mp3&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <t />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-mp3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=phoenix-mp3&theme=dark&hide_border=false)<br/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=phoenix-mp3&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-mp3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="margin-right: 20px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phoenix-mp3&theme=dark&hide_border=false" alt="GitHub Streak">
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phoenix-mp3&icon=0&color=0)](https://visitcount.itsvg.in)
