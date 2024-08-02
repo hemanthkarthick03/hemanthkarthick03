@@ -16,7 +16,7 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 
 - ⚡ Fun fact **Funniest person you ever witnessed 😁**
 
-<p align="center">
+
   <img src="https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/9298f92a-05de-45da-875f-64bfd4efebd3" alt="coding animation">
 </p>
 
@@ -84,9 +84,10 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 These projects demonstrate my ability to design, develop, and implement AI models and data solutions using Python, addressing complex problems and driving innovation.
 
 # 📊 GitHub Stats:
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=phoenix-mp3&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <t />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-mp3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phoenix-mp3&theme=dark&hide_border=false)<br/>
-
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=phoenix-mp3&icon=0&color=0)](https://visitcount.itsvg.in)
