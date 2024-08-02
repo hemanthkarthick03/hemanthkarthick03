@@ -84,10 +84,10 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 These projects demonstrate my ability to design, develop, and implement AI models and data solutions using Python, addressing complex problems and driving innovation.
 
 # 📊 GitHub Stats:
-<p align="center">
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=phoenix-mp3&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <t />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-mp3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phoenix-mp3&theme=dark&hide_border=false)<br/>
-</p>
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=phoenix-mp3&icon=0&color=0)](https://visitcount.itsvg.in)
