@@ -82,9 +82,9 @@ These projects demonstrate my ability to design, develop, and implement AI model
 # 📊 GitHub Stats:
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=phoenix-mp3&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=phoenix-mp3&theme=dark&hide_border=false" alt="GitHub Streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-mp3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="margin-right: 20px;">
+<img src="https://github-readme-stats.vercel.app/api?username=hemanthkarthick03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkarthick03&theme=dark&hide_border=false" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkarthick03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="margin-right: 20px;">
 
 </div>
 
