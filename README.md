@@ -27,13 +27,16 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 **Technologies Used**: 🖥️ LangChain, HuggingFace LLMs, Python, 🌐 JavaScript, LLMs, Machine Learning, NLP 🖼️ Web App.  
 **Key Contribution**: Improved decision-making efficiency and data retrival through automated report generation with PowerBI dashboard.
 
-
+### 📰 Multimedia Classification of Media Articles (Capstone Project)
+Description: Built a smart media article classification system that processes and categorizes news content across multiple domains. Utilized Langchain for natural language processing and integration with external knowledge bases.
+Technologies Used: 🧠 Langchain, 🐍 Python, 🤖 GPT-4, 🗄️ TF-IDF, KNN for multi-label classification.
+Key Features: Classified news into multiple categories like 🎭 entertainment, ⚖️ law, 💰 economy, and 🏅 sports using advanced machine learning algorithms.
+Impact: Automated article classification, reducing manual sorting time while achieving high accuracy.
 
 ### 🌐 Staunch Technologies Website
 **Description**: A corporate website for showcasing Staunch Technologies, specializing in project management and networking.  
 **Technologies Used**: 🌐 HTML5, 🎨 CSS3, 💻 Bootstrap.  
 **Key Contribution**: Designed an innovative and dynamic user interface, improving client engagement with responsive design.
-
 
 ### 🌐 Pace Sports Foundation Website
 **Description**: Designed a responsive website to enhance online presence and streamline athletic record management.  
@@ -65,6 +68,11 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 **Key Contribution**: Reduced transaction costs by 25% and improved data security.
 
 <br />
+
+###🍿 Netflix Homepage Clone with Firebase Authentication
+Description: Developed a Netflix-inspired homepage featuring real-time movie browsing, personalized recommendations, and secure user authentication using Firebase.
+Technologies Used: 🔥 Firebase Authentication, 🎥 TMDb API, ⚛️ React, 📡 Firestore for user preferences, 💻 Styled Components for sleek design.
+Key Contribution: Enabled secure user login, personalized content feeds, and streamlined the user experience with intuitive navigation.
 
 ![5eKX](https://github.com/phoenix-mp3/phoenix-mp3/assets/128579996/9e963633-aff5-4a68-8443-09f42a64d8d8)
 
