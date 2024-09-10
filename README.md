@@ -28,8 +28,8 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 **Key Contribution**: Improved decision-making efficiency and data retrival through automated report generation with PowerBI dashboard.
 
 ### 📰 Multimedia Classification of Media Articles (Capstone Project)
-Description: Built a smart media article classification system that processes and categorizes news content across multiple domains. Utilized Langchain for natural language processing and integration with external knowledge bases.
-Technologies Used: 🧠 Langchain, 🐍 Python, 🤖 GPT-4, 🗄️ TF-IDF, KNN for multi-label classification.
+Description: Built a smart media article classification system that processes and categorizes news content across multiple domains.
+Technologies Used: 🧠 Cohere & Langchain, 🐍 Python, 🤖 GPT-4, 🗄️ TF-IDF, KNN for multi-label classification.
 Key Features: Classified news into multiple categories like 🎭 entertainment, ⚖️ law, 💰 economy, and 🏅 sports using advanced machine learning algorithms.
 Impact: Automated article classification, reducing manual sorting time while achieving high accuracy.
 
