@@ -24,12 +24,12 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 
 ### 🧠 InsightCognos BI: AI-Powered Dynamic BI Platform
 **Description**: Enhanced business intelligence with real-time insights and natural language querying.  
-**Technologies Used**: 🖥️ Python, 🌐 JavaScript, LLMs, Machine Learning, 🖼️ Web App.  
-**Key Contribution**: Improved decision-making efficiency by 81% through automated report generation.
+**Technologies Used**: 🖥️ LangChain, HuggingFace LLMs, Python, 🌐 JavaScript, LLMs, Machine Learning, NLP 🖼️ Web App.  
+**Key Contribution**: Improved decision-making efficiency and data retrival through automated report generation with PowerBI dashboard.
 
 
 
-### 🌐 Staunch Technologies Website (HTML, Bootstrap, CSS)
+### 🌐 Staunch Technologies Website
 **Description**: A corporate website for showcasing Staunch Technologies, specializing in project management and networking.  
 **Technologies Used**: 🌐 HTML5, 🎨 CSS3, 💻 Bootstrap.  
 **Key Contribution**: Designed an innovative and dynamic user interface, improving client engagement with responsive design.
@@ -53,15 +53,15 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 **Key Contribution**: Enhanced user interaction through gesture recognition.
 
 
-### 🧑‍💻 Sales Management System (PHP, MySQL, XAMPP)
+### 🧑‍💻 Sales Management System using PHP
 **Description**: A PHP web application for managing sales data for employees and admins to login, add data, and download reports as Excel.
 **Technologies Used**: 🖥️ PHP, 🛢️ MySQL, 🧾 Bootstrap.  
 **Key Contribution**: Implemented dynamic database connections, form validation, and export features using PHPSpreadsheet.
 
 
 ### ⚙️ Healthcare Management System Using Blockchain
-**Description**: Created a blockchain-based system for secure healthcare data management.  
-**Technologies Used**: 🔗 Ethereum, Solidity, Python, 🛡️ HIPAA compliance.  
+**Description**: Created a local blockchain ecosystem for secure healthcare data and contract management with digital wallets.  
+**Technologies Used**: 🔗 Ethereum, Metamask, Ganache, Solidity, Python, 🛡️ HIPAA compliance.  
 **Key Contribution**: Reduced transaction costs by 25% and improved data security.
 
 <br />
