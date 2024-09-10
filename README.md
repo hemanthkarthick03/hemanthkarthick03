@@ -38,7 +38,7 @@ Impact: Automated article classification, reducing manual sorting time while ach
 **Technologies Used**: 🌐 HTML5, 🎨 CSS3, 💻 Bootstrap.  
 **Key Contribution**: Designed an innovative and dynamic user interface, improving client engagement with responsive design.
 
-### 🌐 Pace Sports Foundation Website
+### 🎯 Pace Sports Foundation Website
 **Description**: Designed a responsive website to enhance online presence and streamline athletic record management.  
 **Technologies Used**: 💻 WordPress, 🖌️ Bootstrap, 🎨 CSS.  
 **Key Contribution**: Boosted digital outreach for Pace Sports Foundation.
@@ -67,7 +67,6 @@ Impact: Automated article classification, reducing manual sorting time while ach
 **Technologies Used**: 🔗 Ethereum, Metamask, Ganache, Solidity, Python, 🛡️ HIPAA compliance.  
 **Key Contribution**: Reduced transaction costs by 25% and improved data security.
 
-<br />
 
 ### 🍿 Netflix Homepage Clone with Firebase Authentication
 Description: Developed a Netflix-inspired homepage featuring real-time movie browsing, personalized recommendations, and secure user authentication using Firebase.
