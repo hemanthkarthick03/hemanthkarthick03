@@ -69,7 +69,7 @@ Impact: Automated article classification, reducing manual sorting time while ach
 
 <br />
 
-###🍿 Netflix Homepage Clone with Firebase Authentication
+### 🍿 Netflix Homepage Clone with Firebase Authentication
 Description: Developed a Netflix-inspired homepage featuring real-time movie browsing, personalized recommendations, and secure user authentication using Firebase.
 Technologies Used: 🔥 Firebase Authentication, 🎥 TMDb API, ⚛️ React, 📡 Firestore for user preferences, 💻 Styled Components for sleek design.
 Key Contribution: Enabled secure user login, personalized content feeds, and streamlined the user experience with intuitive navigation.
