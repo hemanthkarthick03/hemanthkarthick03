@@ -12,13 +12,13 @@ Hey 😁✌️ I'm Hemanth Karthick </h1>
 </br>
 <p align="center"><img src="https://cdn.dribbble.com/users/8619169/screenshots/16424581/media/8a91ad52c7c6cf7562224989d07da8e4.gif"></p>
 
-- 🔭 I’m currently working on **Bone Fracture Detection using CNN**
+- 🔭 I’m currently working on **InsightCognos-BI : AI Driven Interactive Data Visualization BI Tool**
 
-- 🌱 I’m currently learning **PyTorch and DeepLearning Algorithms**
+- 🌱 I’m currently learning **Deep Learning and LLMs**
 
 - 👨‍💻 All of my projects are available at [github.com/hemanthkarthick03](https://github.com/hemanthkarthick03)
 
-- 💬 Ask me about **Python, DS Tools, Blockchain, C++ & ML**
+- 💬 Ask me about **Python, MERN, Langchain, Java, Blockchain, and Model Training**
 
 - 📫 How to reach me **hemanthkarthick03@gmail.com**
 
