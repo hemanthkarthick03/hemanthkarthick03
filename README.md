@@ -2,7 +2,7 @@
 Hey 😁✌️ I'm Hemanth Karthick </h1>
 
 <div align="center">
-  <h2 align="center">A Passionate Software Developer 😊- <a style="color: white text-decoration-style: none" href="https://hemanthkarthick.vercel.app/">Portfolio Website 🤖🧑🏻‍💻🛠️</a>
+  <h2 align="center">A Passionate Software Developer 😊- <a style="color:white text-decoration-style:none" href="https://hemanthkarthick.vercel.app/">Portfolio Website 🤖🧑🏻‍💻🛠️</a>
   </h2></br>
   
   [![LinkedIn](https://img.shields.io/badge/Linkedin%20Profile%20-%E2%9C%94-blue)](https://www.linkedin.com/in/hemanth-karthick/)</t>
