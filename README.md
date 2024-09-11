@@ -1,6 +1,14 @@
 <h1 align="center" style="-webkit-animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both; animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;">
 Hey 😁✌️ I'm Hemanth Karthick </h1>
-<h2 align="center">A Passionate Software Developer 😊- <a style="color: white text-decoration-style: none" href="https://hemanthkarthick.vercel.app/">Portfolio Website 🤖🧑🏻‍💻🛠️</a></h2>
+
+<div align="center">
+  <h2 align="center">A Passionate Software Developer 😊- <a style="color: white text-decoration-style: none" href="https://hemanthkarthick.vercel.app/">Portfolio Website 🤖🧑🏻‍💻🛠️</a>
+  </h2></br>
+  
+  [![LinkedIn](https://img.shields.io/badge/Linkedin%20Profile%20-%E2%9C%94-blue)](https://www.linkedin.com/in/hemanth-karthick/)</t>
+  [![Leetcode](https://img.shields.io/badge/Leetcode%20-%E2%9C%94-red)]([https://leetcode.com/problemset/al](https://leetcode.com/u/phoenix-mp3/))
+</div>
+
 </br>
 <p align="center"><img src="https://cdn.dribbble.com/users/8619169/screenshots/16424581/media/8a91ad52c7c6cf7562224989d07da8e4.gif"></p>
 
