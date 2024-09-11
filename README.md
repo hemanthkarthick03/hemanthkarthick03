@@ -89,7 +89,7 @@ Key Contribution: Enabled secure user login, personalized content feeds, and str
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkarthick03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="margin-right: 20px;">
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanthkarthick03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanthkarthick03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px;"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkarthick03&theme=dark&hide_border=false" alt="GitHub Streak">
 
 </div>
